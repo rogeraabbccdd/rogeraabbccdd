@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello World 👋
 
-<!--
-**rogeraabbccdd/rogeraabbccdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![profile views](https://komarev.com/ghpvc/?username=rogeraabbccdd)
 
-Here are some ideas to get you started:
+```js
+export default {
+  pronouns: 'He' | 'Him',
+  country: 'Taiwan',
+  technologies:{
+    backEnd: ['nodejs', 'php'],
+    fronEnd: ['javascript', 'jquery', 'vue'],
+    database: ['mongo','mysql'],
+    misc: ['sourcepawn']
+  }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![stats](https://github-readme-stats.vercel.app/api?username=rogeraabbccdd&include_all_commits=true)
