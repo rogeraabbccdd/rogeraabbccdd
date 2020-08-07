@@ -15,4 +15,5 @@ export default {
 }
 ```
 
-![stats](https://github-readme-stats.vercel.app/api?username=rogeraabbccdd&include_all_commits=true)
+![stats](https://github-readme-stats.vercel.app/api?username=rogeraabbccdd&include_all_commits=true)  
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeraabbccdd)
