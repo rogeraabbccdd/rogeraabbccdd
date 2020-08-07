@@ -8,7 +8,7 @@ export default {
   country: 'Taiwan',
   technologies:{
     backEnd: ['nodejs', 'php'],
-    fronEnd: ['javascript', 'jquery', 'vue'],
+    frontEnd: ['javascript', 'jquery', 'vue'],
     database: ['mongo','mysql'],
     misc: ['sourcepawn']
   }
