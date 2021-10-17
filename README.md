@@ -4,11 +4,11 @@
 
 ```js
 export default {
-  pronouns: 'He' | 'Him',
+  pronouns: 'He' || 'Him',
   country: 'Taiwan',
   technologies:{
     backEnd: ['nodejs', 'php'],
-    frontEnd: ['javascript', 'jquery', 'vue', 'nuxt'],
+    frontEnd: ['javascript', 'jquery', 'vue', 'nuxt', 'quasar', 'electron'],
     database: ['mongo','mysql'],
     misc: ['sourcepawn']
   }
