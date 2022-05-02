@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ff3575bb-d56d-4c76-9f34-977db48b56ed"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1208.6 304.2"
+	 style="enable-background:new 0 0 1208.6 304.2;" xml:space="preserve">
+<style>
+	@media (prefers-color-scheme: dark) {
+		path {
+			fill: url(#linear-gradient-white);
+		}
+	}
+	@media (prefers-color-scheme: light) {
+		path {
+			fill: url(#linear-gradient-black);
+		}
+	}
+</style>
+<linearGradient id="linear-gradient-black" x1="-100%" y1="100%" x2="800%" y2="0" >
+		<stop offset="0" stop-color="#000">
+				<animate attributeName="offset" values="0;0.8" dur="2s" repeatCount="indefinite"  /> 
+		</stop>
+		<stop offset="0" stop-color="#fff">
+				<animate attributeName="offset" values="0;0.8" dur="2s" repeatCount="indefinite"  /> 
+		</stop>
+		<stop offset="0.1" stop-color="#fff">
+				<animate attributeName="offset" values="0.1;1" dur="2s" repeatCount="indefinite"  /> 
+		</stop>
+		<stop offset="0.1" stop-color="#000">
+				<animate attributeName="offset" values="0.1;1" dur="2s" repeatCount="indefinite"  /> 
+		</stop>
+</linearGradient>
+<linearGradient id="linear-gradient-white" x1="-100%" y1="100%" x2="800%" y2="0" >
+		<stop offset="0" stop-color="#fff">
+				<animate attributeName="offset" values="0;0.8" dur="2s" repeatCount="indefinite"  /> 
+		</stop>
+		<stop offset="0" stop-color="#000">
+				<animate attributeName="offset" values="0;0.8" dur="2s" repeatCount="indefinite"  /> 
+		</stop>
+		<stop offset="0.1" stop-color="#000">
+				<animate attributeName="offset" values="0.1;1" dur="2s" repeatCount="indefinite"  /> 
+		</stop>
+		<stop offset="0.1" stop-color="#fff">
+				<animate attributeName="offset" values="0.1;1" dur="2s" repeatCount="indefinite"  /> 
+		</stop>
+</linearGradient>
+<path d="M324.1,236.3H324l39.1-67.7h0.1l24.5-42.4h-0.1l33.8-58.5h0.1l24.5-42.4h-50.7L249,278.7h50.7L324.1,236.3z M310,278.7h98
+	l24.5-42.4h-98L310,278.7z M373.6,168.6H452l24.5-42.4H398L373.6,168.6z M456.3,25.4l-24.5,42.4H526l24.5-42.4H456.3z M811.9,67.8
+	h50.6l0,0h71.8l24.5-42.4H765.3l-24.5,42.4L811.9,67.8L811.9,67.8z M806.7,76.8l-116.6,202h50.6l116.6-202H806.7z M134.5,207.6
+	L134.5,207.6l41.7-72.1h0l63.6-110.1h-50.6L42.9,278.7h50.6L134.5,207.6z M380.3,25.4h-57.5l-129.1,97.8l-1.3,155.5h55.4l1.3-153.5
+	L380.3,25.4z M609,25.4h-47.9L414.8,278.7h47.9L609,25.4z M1014.4,25.4h-45.1L823,278.7h138.8l24.5-42.4h-93.7L1014.4,25.4z
+	 M605.8,182.4l2.5-22l4.1-123l-47.8,82.8l-2.4,23.1l-4.5,122.6L605.8,182.4z M560.5,278.7h47.9L754.6,25.4h-47.9L560.5,278.7z
+	 M972.4,278.7h45.1l146.3-253.3H1025l-24.5,42.4h93.6L972.4,278.7z M699.7,25.4H19.5l-4,6.9h680.2L699.7,25.4z M966.7,11.6H286.4
+	l-4,6.9h680.2L966.7,11.6z M926.2,285.7H245.9l-4,6.9h680.2L926.2,285.7z M1193.2,271.9H512.9l-4,6.9h680.2L1193.2,271.9z"/>
+</svg>
