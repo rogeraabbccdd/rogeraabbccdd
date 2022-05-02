@@ -2,6 +2,10 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=rogeraabbccdd)
 
+<div align="center">
+	<img src="logo.svg" height="100">
+</div>
+
 ```js
 export default {
   pronouns: 'He' || 'Him',
