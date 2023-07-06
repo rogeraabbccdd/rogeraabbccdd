@@ -28,5 +28,5 @@ export default {
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=dreamer0520&cover_image=true" align="left" height="440">
 </a>
 <a href="https://www.mixcloud.com/kento520/monday-relief-145th/" target="_blank">
-   <img src="https://raw.githubusercontent.com/rogeraabbccdd/rogeraabbccdd/master/mixcloud.png" align="left" height="440">
+   <img src="https://raw.githubusercontent.com/rogeraabbccdd/rogeraabbccdd/master/electrolivr-vol27.png" align="left" height="400">
 </a>
