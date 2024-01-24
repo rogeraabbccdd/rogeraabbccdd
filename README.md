@@ -27,6 +27,6 @@ export default {
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=dreamer0520&redirect=true" target="_blank">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=dreamer0520&cover_image=true" align="left" height="440">
 </a>
-<a href="https://www.mixcloud.com/kento520/unwpa-vol5/" target="_blank">
-   <img src="https://raw.githubusercontent.com/rogeraabbccdd/rogeraabbccdd/master/unwpa-vol5.png" align="left" height="400">
+<a href="https://www.mixcloud.com/kento520/new-year-2024/" target="_blank">
+   <img src="https://raw.githubusercontent.com/rogeraabbccdd/rogeraabbccdd/master/2024.png" align="left" height="400">
 </a>
